@@ -1,0 +1,5 @@
+
+*.cmd linguist-language=python
+*.xml linguist-language=python
+*.yml linguist-language=python
+*.txt linguist-language=python
