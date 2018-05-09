@@ -3,3 +3,4 @@
 *.xml linguist-language=python
 *.yml linguist-language=python
 *.txt linguist-language=python
+*.ps linguist-language=python
